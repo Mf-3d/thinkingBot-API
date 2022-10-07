@@ -1,0 +1,26 @@
+{
+  "name": "thinkingbot-api",
+  "version": "1.0.0",
+  "description": "API化しておこう",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mf-3d/thinkingBot-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mf-3d/thinkingBot-API/issues"
+  },
+  "homepage": "https://github.com/Mf-3d/thinkingBot-API#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "kuromoji": "^0.1.2",
+    "negaposi-analyzer-ja": "^1.0.1",
+    "twitter-api-v2": "^1.12.7"
+  }
+}
